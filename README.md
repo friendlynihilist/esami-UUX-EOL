@@ -6,7 +6,7 @@
 
 1. Una volta filtrate le domande, andare nell’ultima colonna a dx e **copiare la formula su tutte le domande selezionate**:
 
-![Markup](images/markup.png)
+![Markup](markup.png)
 
 1. **Selezionare tutta la colonna con il markup e copiarla in un blocco note**, andando a capo dopo ogni `<p>`. Salvare il file in locale.
 2. Andare su [https://www.fabiovitali.it/EOL/](https://www.fabiovitali.it/EOL/).
